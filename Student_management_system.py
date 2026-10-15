@@ -1,3 +1,4 @@
+# Version 1.1 - Practising Git change tracking
 def Add_Student(Students):
     while True:
         name = input("Name of student: ").strip()
