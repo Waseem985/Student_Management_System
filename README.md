@@ -1,7 +1,6 @@
 # Student Management System
 
-A Python project for managing student grades and calculating academic performance.
-
+This project helps teachers track student performance.
 ## Features
 
 - Store student names and subject marks
@@ -33,4 +32,3 @@ A Python project for managing student grades and calculating academic performanc
 - Using Git for version control
 - Managing branches and pushing code to GitHub
 - Learning Git pull and remote collaboration.
-- A Python project for managing student grades and calculating academic performance.
