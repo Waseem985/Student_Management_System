@@ -1,7 +1,6 @@
 # Student Management System
 
-This Python application calculates grades and identifies top-performing students.
-
+This Python application helps teachers track student performance, calculate grades, and identify top-performing students.
 ## Features
 
 - Store student names and subject marks
