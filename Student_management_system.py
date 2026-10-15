@@ -99,3 +99,4 @@ if __name__ == "__main__":
             
             
 # Feature: student average calculation
+# Project maintained and version-controlled with Git
