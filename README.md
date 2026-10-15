@@ -1,6 +1,6 @@
 # Student Management System
 
-A Python project for managing student grades and calculating academic performance.
+This Python application calculates grades and identifies top-performing students.
 
 ## Features
 
