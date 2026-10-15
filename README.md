@@ -33,3 +33,4 @@ A Python project for managing student grades and calculating academic performanc
 - Using Git for version control
 - Managing branches and pushing code to GitHub
 - Learning Git pull and remote collaboration.
+- A Python project for managing student grades and calculating academic performance.
